@@ -1,0 +1,3 @@
+﻿namespace Inventory_Control
+{
+}
